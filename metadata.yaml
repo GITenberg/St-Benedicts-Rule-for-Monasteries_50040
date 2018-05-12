@@ -1,15 +1,21 @@
 _repo: St-Benedicts-Rule-for-Monasteries_50040
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Doyle, Leonard J.
     gutenberg_agent_id: '45674'
     url: http://www.gutenberg.org/2009/agents/45674
+covers:
+- cover_type: archival
+  image_path: 50040-rst/images/cover.jpg
 creator:
   author:
     agent_name: Nursia, Benedict of
     gutenberg_agent_id: '45673'
     url: http://www.gutenberg.org/2009/agents/45673
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50040#St-Benedicts-Rule-for-Monasteries
 gutenberg_issued: '2015-09-22'
 gutenberg_type: Text
 identifiers:
